@@ -1,4 +1,4 @@
-# iX14 Stand v1 — Buy List
+# iX14 Stand v2 — Buy List
 
 ### Heated inserts
 - [ ] **6 × M3 heat-set inserts**, approximately **5 mm OD × 5 mm long** 
