@@ -1,6 +1,6 @@
 # Assembly Instructions — iX14 Stand V2
 
-[Download the printable three-stage assembly guide (PDF)](ix14-v2-assembly-guide.pdf)
+[Download the printable three-stage assembly guide (PDF)](../exploded-view/ix14-v2-assembly-guide.pdf)
 
 These instructions apply to the internal-handle V2 assembly. **Left and right are always described while looking at the front of the radio.**
 
@@ -19,7 +19,7 @@ These instructions apply to the internal-handle V2 assembly. **Left and right ar
 | 1 | Replaceable detent ring |
 | 1 | 110 mm stand |
 
-Use the [V2 buy list](<../buy-list/iX14 Stand v2 — Buy List.md>) for the complete hardware list.
+Use the [V2 buy list](<../../buy-list/iX14 Stand v2 — Buy List.md>) for the complete hardware list.
 
 ## Insert locations
 
@@ -31,7 +31,7 @@ Install all heat-set inserts before mounting the cases to the radio.
 
 Use the alignment feature supplied with your heat-set tool, such as an insert-centering nub, whenever one is available. If your heat-set setup does not already provide an alignment solution, an appropriate screw may be threaded loosely into the insert to help keep it straight. Press the insert into its reinforced collar and allow the part to cool completely before applying load.
 
-![Stage 1: build the left and right pivot assemblies](images/assembly/step-1.png)
+[Stage 1: build the left and right pivot assemblies](../exploded-view/images/step-1.png)
 
 ## 1. Assemble the right detent pivot
 
@@ -52,7 +52,7 @@ Use the alignment feature supplied with your heat-set tool, such as an insert-ce
 
 ## 3. Mount the case assemblies to the handle
 
-![Stage 2: attach the case assemblies to the radio handle](images/assembly/step-2.png)
+[Stage 2: attach the case assemblies to the radio handle](../exploded-view/images/step-2.png)
 
 1. Place the completed left and right assemblies around their corresponding iX14 handle rails.
 2. Match the cap marked `L` to the left body and the cap marked `R` to the right body.
@@ -63,7 +63,7 @@ Washers are not required under the case-cap screws.
 
 ## 4. Attach the stand
 
-![Stage 3: attach, square and tighten the stand](images/assembly/step-3.png)
+[Stage 3: attach, square and tighten the stand](../exploded-view/images/step-3.png)
 
 1. Align the stand's two rectangular sockets with the square mounting blocks on the pivot stubs.
 2. Seat both blocks completely in the stand sockets.
