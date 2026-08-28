@@ -2,77 +2,107 @@
 
 A folding, indexed-position desk stand designed for the square carrying handle on the Spektrum iX14 transmitter.
 
-The stand mounts without permanently modifying the radio, folds against the back for storage and uses a spring-loaded ball plunger with a detent mechanism to provide repeatable viewing positions.
+The stand mounts without permanently modifying the radio, folds against the back for storage, and uses a spring-loaded ball plunger with a detent mechanism to provide repeatable viewing positions.
 
-## Which version should I build?
+## Which Version Should I Build?
 
 **Build V2 unless you specifically want to reproduce the original prototype.**
 
 | Version | Status | Design | Recommendation |
-| --- | --- | --- | --- |
-| [V2](v2/) | Current design | Two compact assemblies mount around the individual handle rails, with independent pivots and a replaceable detent ring | **Recommended** - more compact, easier to align, leaves more of the handle open and is substantially more functional |
+|---|---|---|---|
+| [V2](v2/) | Current design | Two compact assemblies mount around the individual handle rails, with independent pivots and a replaceable detent ring | **Recommended** — more compact, easier to align, leaves more of the handle open, and is substantially more functional |
 | [V1](v1/) | Legacy prototype | One external clamp spans the center of the handle and uses a common through-bolt pivot | Preserved for reference; development stopped after the concept was proven and moved to V2 |
 
-V1 was successfully printed, assembled and used as a prototype, but it occupies more handle space, has a taller folded profile and is less convenient than V2. It is not the version recommended for a new build.
+V1 was successfully printed, assembled, and used as a prototype, but it occupies more handle space, has a taller folded profile, and is less convenient than V2.
 
-## V2 - recommended build
+It is not the version recommended for a new build.
+
+## V2 — Recommended Build
 
 V2 is the refined internal-handle design and includes:
 
-- Independent left and right handle-mounted case assemblies
-- Self-aligning clamp clearance for radio-to-radio manufacturing variation
-- Separate retained pivots that remain free after their hardware is tightened
-- Replaceable, keyed detent ring that can be printed as a contrasting wear item
-- Square keyed blocks that carry stand shear and twisting loads
-- Reinforced heat-set-insert collars
-- Directional caps marked `L` and `R`
-- A 110 mm stand with paintable chamfers and editable multicolor text
-- PETG-HF print profiles and tested Bambu Studio plate arrangements
+- independent left and right handle-mounted case assemblies;
+- self-aligning clamp clearance for radio-to-radio manufacturing variation;
+- separate retained pivots that remain free after their hardware is tightened;
+- replaceable, keyed detent ring that can be printed as a contrasting wear item;
+- square keyed blocks that carry stand shear and twisting loads;
+- reinforced heat-set-insert collars;
+- directional caps marked `L` and `R`;
+- a 110 mm stand with paintable chamfers and editable multicolor text;
+- PETG-HF print profiles and tested Bambu Studio plate arrangements.
 
-Start here:
+### Start Here
 
-- [V2 assembly instructions](v2/documentation/assembly-instructions/assembly-instructions.md)
-- [V2 printable assembly guide](v2/documentation/exploded-view/ix14-v2-assembly-guide.pdf)
-- [V2 Bambu Studio profile](v2/bambu-studio-3mf/bambu-studio-profile.md)
-- [V2 hardware buy list](<v2/buy-list/iX14 Stand v2 — Buy List.md>)
+- [V2 assembly instructions](v2/documentation/assembly-instructions/)
+- [V2 printable assembly guide](v2/documentation/exploded-view/)
+- [V2 Bambu Studio profile](v2/bambu-studio-3mf/)
+- [V2 hardware buy list](v2/buy-list/)
 - [V2 STL files](v2/stl/)
-- [V2 Bambu Studio project](v2/bambu-studio-3mf/ix14_v2_stand_all_objects.3mf)
 
-> **Validation status:** the V2 printed parts, inserts, clamp fit, pivots, stand interface and complete mechanical assembly have been physically validated. Final detent behavior remains pending physical verification with the production M4 spring-loaded ball plunger.
+> **Validation status:** The V2 printed parts, inserts, clamp fit, pivots, stand interface, and complete mechanical assembly have been physically validated. Final detent behavior remains pending physical verification with the production M4 spring-loaded ball plunger.
 
-## V1 - legacy prototype
+## V1 — Legacy Prototype
 
-V1 remains available as the original proof-of-concept design. Its directory contains the printable models, Bambu Studio project, hardware list and abbreviated assembly documentation needed to reproduce it.
+V1 remains available as the original proof-of-concept design.
 
-- [V1 assembly instructions](v1/documentation/assembly-instructions/assembly-instructions.md)
-- [V1 printable assembly guide](v1/documentation/exploded-view/ix14-v1-assembly-guide.pdf)
-- [V1 hardware buy list](<v1/buy-list/iX14 Stand v1 — Buy List.md>)
+Its directory contains the printable models, Bambu Studio project, hardware list, and abbreviated assembly documentation needed to reproduce it.
+
+- [V1 assembly instructions](v1/documentation/assembly-instructions/)
+- [V1 printable assembly guide](v1/documentation/exploded-view/)
+- [V1 hardware buy list](v1/buy-list/)
 - [V1 STL files](v1/stl/)
-- [V1 Bambu Studio project](v1/bambu-studio-3mf/ix14_v1_stand_all_objects.3mf)
 
-V1 was prototyped in PLA using largely default Bambu settings. No further V1 design development is planned; use V2 for the more practical final implementation.
+V1 was prototyped in PLA using largely default Bambu settings.
 
-## Repository organization
+No further V1 design development is planned; use V2 for the more practical final implementation.
 
-Each version is self-contained:
+## AI-Assisted Design and Development
+
+This project was developed with AI assistance.
+
+The stand began with a practical design goal: create a compact, folding stand for the Spektrum iX14 that could mount to the existing square carrying handle without permanently modifying the transmitter.
+
+AI was used throughout the iterative development process to help:
+
+- analyze physical measurements and fitment observations;
+- translate design requirements into 3D geometry;
+- generate and revise printable models;
+- evaluate clearances, interfaces, pivots, detent geometry, and hardware placement;
+- create prototype variations based on physical test results;
+- organize the versioned design artifacts;
+- generate and maintain assembly documentation.
+
+The development process was highly iterative:
+
+**measure → model → print → physically test → revise**
+
+The generated geometry was not assumed to be correct simply because it looked correct in CAD.
+
+Multiple physical prototypes and fitment iterations were used to refine the design, and the repository distinguishes between the original V1 proof-of-concept and the more functional V2 design that resulted from that process.
+
+In other words: AI helped design it, but the printer and the actual radio got the final vote. :-)
+
+## Repository Organization
+
+Each version is self-contained.
 
 | Directory | Contents |
-| --- | --- |
+|---|---|
 | `stl/` | Individual printable parts |
 | `bambu-studio-3mf/` | Ready-to-slice Bambu Studio project and version-specific printing notes |
 | `buy-list/` | Version-specific hardware requirements |
 | `documentation/assembly-instructions/` | Detailed Markdown assembly instructions |
 | `documentation/exploded-view/` | Printable PDF assembly guide and its linked page images |
 
-Version-specific dimensions, hardware, slicer settings and assembly procedures live inside the corresponding version directory so that the root README does not become another stale copy of those details.
+Version-specific dimensions, hardware, slicer settings, and assembly procedures live inside the corresponding version directory so that the root README does not become another stale copy of those details.
 
-## Important safety information
+## Important Safety Information
 
-- This is a desk and simulator stand, not a replacement carrying handle.
-- Inspect every print, insert and fastener before use and periodically afterward.
-- Confirm stability before placing the radio on an elevated, uneven or windy surface.
+- This is a desk and simulator stand, **not a replacement carrying handle**.
+- Inspect every print, insert, and fastener before use and periodically afterward.
+- Confirm stability before placing the radio on an elevated, uneven, or windy surface.
 - Never force the stand beyond its intended range of motion.
-- Read the repository [use-at-your-own-risk disclaimer](DISCLAIMER.md) before printing or using the design.
+- Read the repository [`DISCLAIMER.md`](DISCLAIMER.md) before printing or using the design.
 
 This is an independent project and is not affiliated with or endorsed by Horizon Hobby or Spektrum.
 
@@ -80,4 +110,18 @@ This is an independent project and is not affiliated with or endorsed by Horizon
 
 This project is provided under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
 
-You may print, copy, share and modify the files for noncommercial purposes with attribution. Changes must be identified. The original files and derivatives may not be sold or otherwise used commercially without separate permission from the creator.
+You may print, copy, share, and modify the files for noncommercial purposes with attribution.
+
+Changes must be identified.
+
+The original files and derivatives may not be sold or otherwise used commercially without separate permission from the creator.
+
+## Why?
+
+Because apparently the natural progression of:
+
+**RC helicopters + 3D printing + AI + excessive iteration**
+
+is spending an unreasonable amount of time designing a stand for a radio that already has a handle.
+
+And that's pretty kewl. :-D
