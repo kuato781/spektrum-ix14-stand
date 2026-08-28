@@ -9,7 +9,7 @@
   - Approximately **8–9 mm overall threaded-body length**
   - Approximately **2.5 mm ball**
   - Target spring force roughly **2–5 N**
-  - Available at Lowes: <a href="https://www.lowes.com/pd/Unique-Bargains-Ball-Point-Set-Screws-M4-x-8mm-304-Stainless-Steel-Metric-Spring-Hex-Socket-Screw-20pcs/6374188" target="_blank" rel="noopener noreferrer">M4 x 8mm Spring Hex Socket Screw</a>
+  - Available at Lowes: <a href="https://www.lowes.com/pd/Unique-Bargains-Ball-Point-Set-Screws-M4-x-8mm-304-Stainless-Steel-Metric-Spring-Hex-Socket-Screw-20pcs/6374188" target="_blank" rel="noopener noreferrer">M4 x 8mm Spring Hex Socket Screw</a> *(Ctrl+Click or Cmd+Click to open in a new tab)*
 ## Bolts, washers, nuts
 - [ ] **2 × M4 × 20 mm socket-head or button-head screws**
 - [ ] **2 × M4 nyloc nut**
