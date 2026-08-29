@@ -24,4 +24,4 @@ These photographs document the physical build and its usable positions; they are
 - [Assembly instructions](documentation/assembly-instructions/)
 - [Printable assembly guide](documentation/exploded-view/)
 
-The printed parts, inserts, clamp fit, pivots, stand interface, and complete mechanical assembly have been physically validated. Final detent behavior remains pending physical verification with the production M4 spring-loaded ball plunger.
+The complete V2 assembly has been physically validated on the radio, including the printed parts, inserts, clamp fit, pivots, stand interface, production M4 × 8 spring-loaded ball plunger, positive detent engagement, full range of motion, folded position, and carrier fit.

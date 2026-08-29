@@ -4,7 +4,7 @@
 
 These instructions apply to the internal-handle V2 assembly. **Left and right are always described while looking at the front of the radio.**
 
-> **Hardware status:** the printed mechanism, inserts, pivots, stand interface and full assembly fit have been physically validated. Final spring-loaded ball-plunger behavior remains pending arrival of the production M4 × 8 hardware.
+> **Hardware status:** the complete mechanism has been physically validated on the radio with the production M4 × 8 spring-loaded ball plunger. The plunger provides positive engagement at each indexed stand position while preserving smooth movement through the full range of motion.
 
 ## Printed parts
 
@@ -84,12 +84,13 @@ Do not overtighten the cap screws against the radio handle.
 
 ## 6. Install and adjust the ball plunger
 
-1. Thread the M4 × 8 spring-loaded ball plunger into the M4 insert in the right detent case body.
-2. Rotate the stand slowly while advancing the plunger until the ball begins engaging the detent pockets.
-3. Adjust in small increments until each position clicks positively without making the pivot difficult to rotate.
-4. Cycle the stand repeatedly through its full range and confirm that the replaceable ring remains fully seated.
+1. Use something thin, such as an awl or straightened paper clip, to place a **small amount of removable, non-permanent threadlocker** (for example, blue Loctite) inside the receiving threads of the M4 insert. Keep the threadlocker off the surrounding plastic and out of the plunger mechanism.
+2. Insert the M4 × 8 spring-loaded ball plunger **ball end first** through the access bore, then thread it into the M4 insert in the right detent case body.
+3. Advance the plunger a little at a time while repeatedly moving the stand between its fully folded and fully extended positions.
+4. Continue making small adjustments until the ball engages the detent recesses solidly at each indexed position without making the pivot overly tight or difficult to move.
+5. Cycle the stand repeatedly through its full range. Confirm positive engagement at every position and verify that the replaceable detent ring remains fully seated.
 
-Do not use permanent threadlocker. Complete the initial adjustment and wear-in testing before deciding whether any removable retention method is necessary.
+The correct setting is the point at which the detents feel deliberate and secure while the stand still moves smoothly. Do not use permanent threadlocker.
 
 ## Final inspection
 
@@ -99,6 +100,7 @@ Do not use permanent threadlocker. Complete the initial adjustment and wear-in t
 - Both pivot bolts are secure with washers and Nyloc nuts
 - Both pivots rotate freely without axial looseness
 - Detent ring key is fully seated and pockets face the plunger
+- Ball plunger engages each detent recess positively without binding
 - Stand blocks are fully seated in both sockets
 - Both stand screws have washers and are secure
 - Stand deploys smoothly and supports the radio at the intended angle
@@ -111,5 +113,6 @@ Do not use permanent threadlocker. Complete the initial adjustment and wear-in t
 - Inspect the printed parts, inserts and fasteners periodically for cracks, loosening or wear.
 - Replace the detent ring if its pockets become rounded or inconsistent.
 - Recheck cap and stand screws after the first several use cycles.
+- Recheck the ball-plunger adjustment after the first several use cycles and whenever engagement begins to feel weak or excessively tight.
 - Never force the stand beyond its designed range of motion.
 - Use the stand at your own risk and verify stability before placing the radio on any elevated, uneven or windy surface.

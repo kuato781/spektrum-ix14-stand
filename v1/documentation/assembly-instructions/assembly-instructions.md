@@ -4,7 +4,7 @@
 
 V1 is the original external-handle prototype. It was physically fit-tested and used successfully in PLA, but development moved to V2 because V2 is easier to install, more compact, more adjustable and leaves more of the carrying handle open. **New builders should use V2 unless they specifically want to reproduce the original design.**
 
-> **Hardware status:** the V1 printed parts, clamp fit, pivot, stand attachment and overall motion were physically validated. Final behavior with the production M4 x 8 spring-loaded ball plunger remains pending arrival of that hardware.
+> **Hardware status:** the complete V1 mechanism has been physically validated with the production M4 x 8 spring-loaded ball plunger, including positive detent engagement, smooth movement through the full range of motion, and the folded position.
 
 ## Printed parts
 
@@ -67,12 +67,13 @@ Washers are not required under the clamp-cap screws. Do not overtighten the clam
 ## 3. Install and adjust the ball plunger
 
 1. Use the relief in the left ear to access the M4 insert in the clamp body.
-2. Thread the M4 x 8 spring-loaded ball plunger into the insert.
-3. Rotate the stand slowly while advancing the plunger in small increments.
-4. Stop when the ball engages the detent pockets positively without making the pivot difficult to rotate.
-5. Cycle the stand through its full travel and confirm consistent engagement.
+2. Use something thin, such as an awl or straightened paper clip, to place a **small amount of removable, non-permanent threadlocker** (for example, blue Loctite) inside the receiving threads of the M4 insert. Keep the threadlocker off the surrounding plastic and out of the plunger mechanism.
+3. Insert and thread the M4 x 8 spring-loaded ball plunger **ball end first** into the insert.
+4. Advance the plunger a little at a time while repeatedly moving the stand between its fully folded and fully extended positions.
+5. Stop when the ball engages the detent pockets solidly at each indexed position without making the pivot overly tight or difficult to move.
+6. Cycle the stand through its full travel and confirm consistent engagement.
 
-Do not use permanent threadlocker. Complete initial adjustment and wear-in testing before deciding whether any removable retention method is necessary.
+The correct setting is the point at which the detents feel deliberate and secure while the stand still moves smoothly. Do not use permanent threadlocker.
 
 ## Final inspection
 
