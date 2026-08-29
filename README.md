@@ -17,6 +17,15 @@ V1 was successfully printed, assembled, and used as a prototype, but it occupies
 
 It is not the version recommended for a new build.
 
+## Product Photos
+
+Photographs of the actual printed and assembled stands are included with each version:
+
+- [V1 product images](v1/documentation/product-images/) show the original prototype as separate components, assembled, folded, and extended.
+- [V2 product images](v2/documentation/product-images/) show the recommended design as separate components, assembled, folded, extended through its usable range, and installed with handle clearance. The V2 collection also includes a direct V1-versus-V2 extension comparison.
+
+These are photographs of physical builds, not CAD renders. For installation order and hardware placement, use the version-specific assembly instructions and printable assembly guide.
+
 ## V2 — Recommended Build
 
 V2 is the refined internal-handle design and includes:
@@ -93,6 +102,7 @@ Each version is self-contained.
 | `buy-list/` | Version-specific hardware requirements |
 | `documentation/assembly-instructions/` | Detailed Markdown assembly instructions |
 | `documentation/exploded-view/` | Printable PDF assembly guide and its linked page images |
+| `documentation/product-images/` | Photographs of the actual printed parts and completed assembly |
 
 Version-specific dimensions, hardware, slicer settings, and assembly procedures live inside the corresponding version directory so that the root README does not become another stale copy of those details.
 
