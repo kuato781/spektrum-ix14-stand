@@ -24,4 +24,4 @@ These photographs document the physical build and its usable positions; they are
 - [Assembly instructions](documentation/assembly-instructions/)
 - [Printable assembly guide](documentation/exploded-view/)
 
-V1 was prototyped in PLA using largely default Bambu Studio settings. No further V1 design development is planned.
+V1 was prototyped in PLA using largely default Bambu Studio settings. Its complete folding and indexed-detent mechanism has been physically validated with the production M4 × 8 spring-loaded ball plunger. No further V1 design development is planned.
