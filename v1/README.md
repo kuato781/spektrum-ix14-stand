@@ -1,6 +1,6 @@
-# Spektrum iX14 Stand — V1 Legacy Prototype
+# Spektrum iX14 Stand — V1 Legacy CRAP™ Prototype
 
-V1 is the original proof-of-concept stand. It was successfully printed, assembled, and used to validate the folding detent concept, but development moved to the more compact and functional [V2 design](../v2/).
+V1 is the original implementation of **CRAP™** — **C**audal **R**ear **A**nchoring **P**latform — and the project's proof-of-concept stand. It was successfully printed, assembled, and used to validate the folding detent concept, but development moved to the more compact and functional [V2 SMUT™ design](../v2/).
 
 Build V1 only if you specifically want to reproduce the original prototype. For a new stand, V2 is recommended.
 
@@ -25,3 +25,5 @@ These photographs document the physical build and its usable positions; they are
 - [Printable assembly guide](documentation/exploded-view/)
 
 V1 was prototyped in PLA using largely default Bambu Studio settings. Its complete folding and indexed-detent mechanism has been physically validated with the production M4 × 8 spring-loaded ball plunger. No further V1 design development is planned.
+
+In architectural terms, development moved from CRAP™ to SMUT™.

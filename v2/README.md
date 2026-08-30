@@ -1,6 +1,12 @@
-# Spektrum iX14 Stand — V2 Recommended Design
+# Spektrum iX14 Stand — V2 SMUT™ Recommended Design
 
-V2 is the current and recommended stand design. Its two compact assemblies mount around the individual handle rails, preserving more usable handle space while providing independent retained pivots and a replaceable keyed detent ring.
+V2 is the current and recommended stand design and the first physically validated implementation of **SMUT™** — **S**ide **M**ount **U**nit **T**echnology. Its two compact assemblies mount around the individual handle rails, preserving more usable handle space while providing independent retained pivots and a replaceable keyed detent ring.
+
+## Why SMUT™?
+
+**Because rear-entry solutions are unnecessarily restrictive.**
+
+SMUT™ moves the stand pivots from a single rear-mounted clamp to purpose-designed side-mount assemblies. The result preserves full carrying-handle access while providing positive indexed positioning, greater range of motion, straightforward left-to-right alignment, and a more compact folded profile.
 
 ## Product Images
 

@@ -4,14 +4,16 @@ A folding, indexed-position desk stand designed for the square carrying handle o
 
 The stand mounts without permanently modifying the radio, folds against the back for storage, and uses a spring-loaded ball plunger with a detent mechanism to provide repeatable viewing positions.
 
+V2 introduces **SMUT™** — **S**ide **M**ount **U**nit **T**echnology: a reusable side-mounted architecture that places independent retained pivots on the individual handle rails instead of relying on a single rear-mounted clamp.
+
 ## Which Version Should I Build?
 
 **Build V2 unless you specifically want to reproduce the original prototype.**
 
 | Version | Status | Design | Recommendation |
 |---|---|---|---|
-| [V2](v2/) | Current design | Two compact assemblies mount around the individual handle rails, with independent pivots and a replaceable detent ring | **Recommended** — more compact, easier to align, leaves more of the handle open, and is substantially more functional |
-| [V1](v1/) | Legacy prototype | One external clamp spans the center of the handle and uses a common through-bolt pivot | Preserved for reference; development stopped after the concept was proven and moved to V2 |
+| [V2](v2/) | Current design | SMUT™ side-mount assemblies with independent pivots and a replaceable detent ring | **Recommended** — more compact, easier to align, leaves more of the handle open, and is substantially more functional |
+| [V1](v1/) | Legacy prototype | CRAP™ rear-mount platform with one external clamp and a common through-bolt pivot | Preserved for reference; development stopped after the concept was proven and moved to V2 |
 
 V1 was successfully printed, assembled, and used as a prototype, but it occupies more handle space, has a taller folded profile, and is less convenient than V2.
 
@@ -26,9 +28,9 @@ Photographs of the actual printed and assembled stands are included with each ve
 
 These are photographs of physical builds, not CAD renders. For installation order and hardware placement, use the version-specific assembly instructions and printable assembly guide.
 
-## V2 — Recommended Build
+## V2 — Recommended SMUT™ Build
 
-V2 is the refined internal-handle design and includes:
+V2 is the first physically validated implementation of SMUT™ and includes:
 
 - independent left and right handle-mounted case assemblies;
 - self-aligning clamp clearance for radio-to-radio manufacturing variation;
@@ -40,6 +42,12 @@ V2 is the refined internal-handle design and includes:
 - a 110 mm stand with paintable chamfers and editable multicolor text;
 - PETG-HF print profiles and tested Bambu Studio plate arrangements.
 
+### Why SMUT™?
+
+**Because rear-entry solutions are unnecessarily restrictive.**
+
+By moving the pivot assemblies to the individual handle rails, SMUT™ preserves full carrying-handle access while providing independent retained pivots, positive indexed positioning, greater range of motion, and a more compact folded profile.
+
 ### Start Here
 
 - [V2 assembly instructions](v2/documentation/assembly-instructions/)
@@ -50,9 +58,9 @@ V2 is the refined internal-handle design and includes:
 
 > **Validation status:** The complete V2 assembly has been physically validated on the radio, including the printed parts, inserts, clamp fit, pivots, stand interface, production M4 × 8 spring-loaded ball plunger, positive detent engagement, full range of motion, folded position, and carrier fit.
 
-## V1 — Legacy Prototype
+## V1 — Legacy CRAP™ Prototype
 
-V1 remains available as the original proof-of-concept design.
+V1 remains available as the original implementation of **CRAP™** — **C**audal **R**ear **A**nchoring **P**latform — and the project's proof-of-concept design.
 
 Its directory contains the printable models, Bambu Studio project, hardware list, and abbreviated assembly documentation needed to reproduce it.
 
@@ -64,6 +72,8 @@ Its directory contains the printable models, Bambu Studio project, hardware list
 V1 was prototyped in PLA using largely default Bambu settings.
 
 No further V1 design development is planned; use V2 for the more practical final implementation.
+
+In architectural terms, development moved from CRAP™ to SMUT™.
 
 ## AI-Assisted Design and Development
 

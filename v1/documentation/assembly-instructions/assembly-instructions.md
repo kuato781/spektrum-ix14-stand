@@ -1,8 +1,8 @@
-# Assembly Instructions - iX14 Stand V1
+# Assembly Instructions - iX14 Stand V1 CRAP™ System
 
 [Download the printable two-stage assembly guide (PDF)](../exploded-view/ix14-v1-assembly-guide.pdf)
 
-V1 is the original external-handle prototype. It was physically fit-tested and used successfully in PLA, but development moved to V2 because V2 is easier to install, more compact, more adjustable and leaves more of the carrying handle open. **New builders should use V2 unless they specifically want to reproduce the original design.**
+V1 is the original external-handle implementation of **CRAP™** — **C**audal **R**ear **A**nchoring **P**latform. It was physically fit-tested and used successfully in PLA, but development moved to the V2 SMUT™ system because V2 is easier to install, more compact, more adjustable and leaves more of the carrying handle open. **New builders should use V2 unless they specifically want to reproduce the original design.**
 
 > **Hardware status:** the complete V1 mechanism has been physically validated with the production M4 x 8 spring-loaded ball plunger, including positive detent engagement, smooth movement through the full range of motion, and the folded position.
 

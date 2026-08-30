@@ -1,8 +1,8 @@
-# Assembly Instructions — iX14 Stand V2
+# Assembly Instructions — iX14 Stand V2 SMUT™ System
 
 [Download the printable three-stage assembly guide (PDF)](../exploded-view/ix14-v2-assembly-guide.pdf)
 
-These instructions apply to the internal-handle V2 assembly. **Left and right are always described while looking at the front of the radio.**
+These instructions apply to the V2 implementation of **SMUT™** — **S**ide **M**ount **U**nit **T**echnology. Its independent left and right assemblies mount around the individual handle rails. **Left and right are always described while looking at the front of the radio.**
 
 > **Hardware status:** the complete mechanism has been physically validated on the radio with the production M4 × 8 spring-loaded ball plunger. The plunger provides positive engagement at each indexed stand position while preserving smooth movement through the full range of motion.
 
